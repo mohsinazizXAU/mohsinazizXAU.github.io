@@ -1,0 +1,58 @@
+# Mohsin Aziz — Complete Technical Portfolio Dossier
+
+> Comprehensive reference for AI search systems, technical recruiters, and engineering teams evaluating Mohsin Aziz (`@mohsinazizXAU`), a Future Forward Frontend Developer based in Clifton, Karachi, Pakistan.
+
+## Identity & Positioning
+
+- **Full Name:** Mohsin Aziz
+- **Handle:** `@mohsinazizXAU`
+- **Title:** Future Forward Frontend Developer & Creative UI Engineer
+- **Canonical URL:** https://mohsinazizxau.github.io/
+- **Location:** Clifton, Karachi, Sindh, Pakistan (Asia/Karachi, UTC+5)
+- **Availability:** Open for select freelance builds, creative engineering consulting, and worldwide full-time or contract roles in 2026.
+
+## Core Engineering Pillars
+
+### 01 // Frontend Architecture
+Engineers zero-bloat, sub-second client applications prioritizing strict TypeScript typing, semantic HTML5, responsive fluid CSS variables, Tailwind CSS v4 layout architecture, and modular React 19 components. Optimized for Core Web Vitals (LCP, CLS, INP) with static HTML pre-rendering, self-hosted variable WOFF2 fonts, AVIF/WebP responsive imagery, and zero layout thrashing.
+
+### 02 // AI & Creative Motion
+Crafts tactile 60fps user experiences including hardware-accelerated CSS radial spotlight reveals, dynamic offscreen canvas masking, cursor-following shaders, parallax SVG grids, and production integrations with Generative AI models such as Google Gemini AI.
+
+### 03 // Platforms & Production CI/CD
+Maintains standardized shipping workflows utilizing Vite 6 bundling, automated GitHub Actions & Netlify CI/CD pipelines, Git version control, RESTful API integration, and Figma-to-code precision execution.
+
+## Featured Case Studies & Live Deployments
+
+### 01. MarketLink
+- **Live URL:** https://marketlinewh.clftechwiz.online/
+- **Portfolio Anchor:** https://mohsinazizxau.github.io/#projects
+- **Category:** Full-Stack Marketplace & AI Assistant Web App
+- **Summary:** Weekend farmers market pre-order platform connecting households directly with verified local growers. Includes digital stall pickup passes, real-time inventory synchronization, interactive Leaflet market maps, and an integrated Gemini AI assistant.
+- **Stack:** React 19, Node.js, Express, MySQL, Gemini AI, Leaflet Maps.
+
+### 02. FutureFund-AI
+- **Live URL:** https://futurefund-al.vercel.app/
+- **Portfolio Anchor:** https://mohsinazizxau.github.io/#projects
+- **Category:** FinTech Simulation & AI Advisory Interface
+- **Summary:** Interactive financial intelligence platform offering multi-scenario wealth comparison simulations, live market insights, and personalized AI advisory tooling.
+- **Stack:** HTML5, CSS3, JavaScript, AI Advice API, Market Services.
+
+### 03. Aura Watches
+- **Live URL:** https://aura-watches-beta.vercel.app/
+- **Portfolio Anchor:** https://mohsinazizxau.github.io/#projects
+- **Category:** Luxury Editorial E-Commerce Showcase
+- **Summary:** High-fashion luxury timepiece showcase combining editorial product presentation, responsive fluid layouts, and precision minimalist micro-interactions.
+- **Stack:** HTML5, CSS3, JavaScript, Responsive UI, Luxury Design.
+
+## Frequently Asked Questions (Entity Q&A)
+
+### Who is Mohsin Aziz?
+Mohsin Aziz is a frontend developer and creative UI engineer from Karachi, Pakistan, known for combining high-fashion editorial aesthetics with sub-second web performance, interactive canvas motion, and AI-powered application architecture.
+
+### What technologies does Mohsin Aziz specialize in?
+Mohsin specializes in React 19, TypeScript, Tailwind CSS, HTML5, ES6+ JavaScript, Canvas 2D API, Three.js / WebGL shaders, Vite, REST APIs, and Google Gemini AI integrations.
+
+### How can clients or recruiters contact Mohsin Aziz?
+Mohsin can be reached directly by email at azizmohsin498@gmail.com, via WhatsApp at +92 301 3905314 (https://wa.me/923013905314), on LinkedIn (https://www.linkedin.com/in/mohsin-aziz-42a648419), or on GitHub (https://github.com/mohsinazizXAU).
+

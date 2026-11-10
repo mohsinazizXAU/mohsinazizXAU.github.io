@@ -1,0 +1,38 @@
+User-agent: *
+Allow: /
+
+# Search Engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI Crawlers & Generative Search Engines
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://mohsinazizxau.github.io/sitemap.xml
+# LLMs context: https://mohsinazizxau.github.io/llms.txt
+

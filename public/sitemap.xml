@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mohsinazizxau.github.io/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mohsinazizxau.github.io/og-image.jpg</image:loc>
+      <image:title>Mohsin Aziz — Future Forward Frontend Developer Portfolio</image:title>
+      <image:caption>Editorial portfolio showcasing React 19, TypeScript, interactive canvas shaders, and AI-powered web applications by Mohsin Aziz.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohsinazizxau.github.io/assets/before-hover.webp</image:loc>
+      <image:title>Mohsin Aziz Studio Portrait</image:title>
+      <image:caption>Portrait of Frontend Developer Mohsin Aziz featured in the interactive spotlight hero stage.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohsinazizxau.github.io/assets/projects/marketlink.webp</image:loc>
+      <image:title>MarketLink Farmers Market Platform</image:title>
+      <image:caption>Full-stack weekend farmers market pre-order platform built with React 19, Node.js, MySQL, Gemini AI, and Leaflet Maps.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohsinazizxau.github.io/assets/projects/project1img.webp</image:loc>
+      <image:title>FutureFund-AI Financial Intelligence Platform</image:title>
+      <image:caption>Interactive financial intelligence platform with wealth simulations and personalized AI advisory tools.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohsinazizxau.github.io/assets/projects/projectimg2.webp</image:loc>
+      <image:title>Aura Watches Luxury Showcase</image:title>
+      <image:caption>Minimalist luxury timepiece showcase featuring editorial layouts and smooth web interactions.</image:caption>
+    </image:image>
+  </url>
+</urlset>
+

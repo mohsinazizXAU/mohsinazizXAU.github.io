@@ -1,0 +1,13 @@
+/node_modules/
+/dist/
+/dist-ssr/
+/.lighthouseci/
+/Assets/
+/assets_legacy_backup/
+/revel effect idea/
+*.local
+*.log
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+

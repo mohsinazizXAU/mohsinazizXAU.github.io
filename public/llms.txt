@@ -1,0 +1,37 @@
+# Mohsin Aziz — Future Forward Frontend Developer
+
+> Official portfolio of Mohsin Aziz, a frontend developer in Karachi specializing in React 19, TypeScript, canvas shaders, high-speed UI, and AI-augmented web apps.
+
+## Core Portfolio Sections
+
+- [Portfolio Homepage](https://mohsinazizxau.github.io/): Interactive hero stage introducing Mohsin Aziz, featuring a cursor-driven canvas spotlight reveal and core frontend engineering overview.
+- [Selected Works](https://mohsinazizxau.github.io/#projects): Case studies and live deployments for MarketLink, FutureFund-AI, and Aura Watches with stack tags and video previews.
+- [Technical Expertise](https://mohsinazizxau.github.io/#expertise): Three engineering pillars covering Frontend Architecture, AI & Creative Motion, and Production CI/CD Tooling.
+- [About & Engineering Philosophy](https://mohsinazizxau.github.io/#about): Overview of Mohsin Aziz's engineering discipline focused on sub-second rendering, tactile motion, and AI integration.
+- [Code vs Design Identity](https://mohsinazizxau.github.io/#dual-identity): Dual specialization selector pairing technical architecture and creative UI direction for client inquiries.
+- [Contact & Inquiries](https://mohsinazizxau.github.io/#contact): Direct project transmission form, one-click email copy, and verified social channels for hiring or freelance contracts.
+
+## Selected Projects
+
+- [MarketLink](https://marketlinewh.clftechwiz.online/): Full-stack weekend farmers market pre-order platform using React 19, Node.js, Express, MySQL, Gemini AI, and Leaflet Maps.
+- [FutureFund-AI](https://futurefund-al.vercel.app/): Interactive financial intelligence web application featuring wealth comparison simulations, market insights, and AI advisory tools.
+- [Aura Watches](https://aura-watches-beta.vercel.app/): Editorial luxury timepiece showcase built with semantic HTML5, CSS3, JavaScript, and responsive minimalist UI.
+
+## Key Facts
+
+- Developer: Mohsin Aziz (`@mohsinazizXAU`)
+- Primary Role: Frontend Developer & Creative UI Engineer
+- Location: Clifton, Karachi, Pakistan (UTC+5 / PKT)
+- Core Technologies: React 19, TypeScript, Tailwind CSS v4, HTML5, JavaScript ES6+, Canvas 2D, WebGL / Three.js, Vite
+- AI & Backend Integrations: Google Gemini AI pipelines, RESTful APIs, Node.js, Express, MySQL
+- Availability: Available for select freelance contracts, product builds, and worldwide engineering roles (2026)
+
+## Contact
+
+- Website: https://mohsinazizxau.github.io/
+- Extended AI Dossier: https://mohsinazizxau.github.io/llms-full.txt
+- Email: azizmohsin498@gmail.com
+- GitHub: https://github.com/mohsinazizXAU
+- LinkedIn: https://www.linkedin.com/in/mohsin-aziz-42a648419
+- WhatsApp: https://wa.me/923013905314
+
